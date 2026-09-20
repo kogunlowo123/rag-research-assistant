@@ -636,3 +636,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Also
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+<!-- architecture -->
+## Architecture
+
+![Architecture diagram](docs/architecture.svg)
