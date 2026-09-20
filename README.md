@@ -1,5 +1,9 @@
 # RAG Research Assistant
 
+![Banner](docs/banner.png)
+
+> If this project is useful, a star helps other engineers find it.
+
 [![CI](https://github.com/kogunlowo123/rag-research-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/kogunlowo123/rag-research-assistant/actions/workflows/ci.yml)
 [![Security](https://github.com/kogunlowo123/rag-research-assistant/actions/workflows/security.yml/badge.svg)](https://github.com/kogunlowo123/rag-research-assistant/actions/workflows/security.yml)
 [![Container](https://github.com/kogunlowo123/rag-research-assistant/actions/workflows/docker.yml/badge.svg)](https://github.com/kogunlowo123/rag-research-assistant/actions/workflows/docker.yml)
